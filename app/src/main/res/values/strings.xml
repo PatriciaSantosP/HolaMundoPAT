@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HolaMundoPATRI</string>
+    <string name="nombre">Escribe tu nombre:</string>
+    <string name="aceptar">Pulse para recibir el saludito :):</string>
+</resources>
